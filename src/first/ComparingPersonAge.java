@@ -16,7 +16,7 @@ public class ComparingPersonAge {
             System.out.println("Person One is older than person Two with same year.");
         }
         else if ( yearOne == yearTwo && monthOne == monthTwo && dayOne < dayTwo){
-            System.out.println("Person One is older than person Two with same year and same month.");
+            System.out.println("Person One is older than person Two but with same year and same month.");
         }
         else if ( yearOne == yearTwo && monthOne == monthTwo && dayOne == dayTwo){
             System.out.println("Both Person are of same age. Inorder to find who is older, need to check their born time.");

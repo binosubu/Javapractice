@@ -16,6 +16,9 @@ public class IfStatement {
         if (num1 > num2){
             System.out.println("Person one is older than person two.");
         }
+        else if (num1 == num2){
+            System.out.println("Person one and person two are of same age.");
+        }
         else{
             System.out.println("Person two is older than person one.");
         }

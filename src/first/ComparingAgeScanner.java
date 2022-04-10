@@ -32,10 +32,10 @@ public class ComparingAgeScanner {
             System.out.println("\nYou are older than Person Two......");
         }
         else if ( yearOne == yearTwo && monthOne == monthTwo && dayOne == dayTwo){
-            System.out.println("\nBoth Person are of same age. Inorder to find who is older, need to check their born time.");
+            System.out.println("\nBoth Person are of same age. Inorder to find who is older, need to check their born time......");
         }
         else{
-            System.out.println("\nPerson Two is older than you.");
+            System.out.println("\nPerson Two is older than you......");
         }
     }
 }
