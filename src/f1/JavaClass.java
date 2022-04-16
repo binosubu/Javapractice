@@ -1,4 +1,4 @@
-package first;
+package f1;
 
 public class JavaClass {
 

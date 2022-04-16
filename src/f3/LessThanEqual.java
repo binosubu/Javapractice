@@ -1,4 +1,4 @@
-package third;
+package f3;
 
 import java.util.Scanner;
 
